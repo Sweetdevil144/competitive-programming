@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/Users/abhinavpandey/Documents/Codeforce/build",
+  "command": "/opt/homebrew/bin/aarch64-apple-darwin22-g++-13 -g -std=gnu++23 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk -o CMakeFiles/Codeforce.dir/beautifulYear.cpp.o -c /Users/abhinavpandey/Documents/Codeforce/beautifulYear.cpp",
+  "file": "/Users/abhinavpandey/Documents/Codeforce/beautifulYear.cpp",
+  "output": "CMakeFiles/Codeforce.dir/beautifulYear.cpp.o"
+},
+{
+  "directory": "/Users/abhinavpandey/Documents/Codeforce/build",
+  "command": "/opt/homebrew/bin/aarch64-apple-darwin22-g++-13 -g -std=gnu++23 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk -o CMakeFiles/Codeforce.dir/word.cpp.o -c /Users/abhinavpandey/Documents/Codeforce/word.cpp",
+  "file": "/Users/abhinavpandey/Documents/Codeforce/word.cpp",
+  "output": "CMakeFiles/Codeforce.dir/word.cpp.o"
+}
+]
